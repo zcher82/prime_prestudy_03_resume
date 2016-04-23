@@ -1,0 +1,101 @@
+/* *{
+	border: 1px dotted blue;
+} */
+
+
+div {
+	font-family: Courier;
+	font-weight: bold;
+}
+button {
+	position: fixed;
+	top: 20px;
+	right: 80px;
+	border-radius: 10px;
+}
+
+.container {
+	display: none;
+	background-image: url("http://i1060.photobucket.com/albums/t455/zcher82/natural-tan-canvas-fabric-texture_zpslrq6zkxo.jpg");
+	border-radius: 8px;
+	margin: auto;
+	padding: 10px 60px 10px 60px;
+	position: center;
+}
+
+figure img {
+	display: inline-block;
+	max-width: 200px;
+	max-height: 500px;
+	width: auto;
+	height: auto;
+	float: left;
+	border: 5px solid white;
+	border-radius: 10px;
+	margin: 0 0 20px 10px;
+}
+
+header {
+	display: inline-block;
+	line-height: 6px;
+	margin: 30px 20px 30px 230px;
+}
+
+article {
+	display: inline-block;
+	margin: 30px 20px 20px 230px;
+}
+
+.position h4 {
+	float: left;
+	font-weight: bold;
+	font-size: 20px;
+	padding: 1px 15px 1px 15px;
+}
+
+.position h5 {
+	float: right;
+	font-weight: bold;
+	padding: 1px 15px 1px 20px;
+
+}
+
+.duties {
+	clear: both;
+	padding: 1px 20px 1px 20px;
+}
+
+.tong {
+	line-height: 8px;
+	display: inline-block;
+	padding: 1px 10px 20px 20px;
+}
+
+.jesse {
+	line-height: 8px;
+	display: inline-block;
+	padding: 1px 10px 20px 10px;
+}
+
+#experience {
+	clear: both;
+	padding: 10px;
+}
+
+#experience h3 {
+	font-size: 25px;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+#volunteering h3 {	
+	padding: 15px;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+#references h3{
+	padding: 15px;
+	font-weight: bold;
+	text-decoration: underline;
+}
